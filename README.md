@@ -1,0 +1,1 @@
+# Modelo-de-IA-para-detectar-transformaciones-urbanas-mediante-segmentacion-satelital
