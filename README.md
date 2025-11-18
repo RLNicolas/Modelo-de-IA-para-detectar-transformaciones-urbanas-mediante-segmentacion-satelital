@@ -23,3 +23,7 @@ Se evaluó el rendimiento de cada uno de los modelos, obteniendo los mejores res
 
 ## Modelos No Supervisados
 
+## Enlaces
+ * Video de YouTube:
+ * Slides: https://www.canva.com/design/DAGzFrmcfRM/feTF37yi-_CV0Ua55oQ4wA/edit?utm_content=DAGzFrmcfRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ * Notebook: 
