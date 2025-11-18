@@ -22,6 +22,15 @@ Cuenta con un total de 360 imagenes RGB de tamaño 5000x5000 px con un resolucio
 Se evaluó el rendimiento de cada uno de los modelos, obteniendo los mejores resultados con Random Forest, sobre el cual se ajustaron los hiperparámetros para equilibrar precisión y eficiencia computacional. 
 
 ## Modelos No Supervisados
+Reducción de dimensionalidad:
+ * PCA
+ * t-SNE
+
+Modelos de clustering
+ * K-Means
+ * DBSCAN
+
+Se evaluó el rendimiento de una red neuronal usando las features originales del dataset, las generadas por PCA y un conjunto de ambas. Adicionalmente, se realizaron procesos de clustering con K-Means y DBSCAN utilizando PCA y t-SNE, comparando sus resultados con las features originales.
 
 ## Enlaces
  * Video de YouTube:
