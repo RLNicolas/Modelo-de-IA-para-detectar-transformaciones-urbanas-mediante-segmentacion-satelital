@@ -19,7 +19,7 @@ Cuenta con un total de 360 imagenes RGB de tamaño 5000x5000 px con un resolucio
   * Decision Tree
   * Random Forest
 
-Se evaluó el rendimiento de los modelos, obteniendo los mejores resultados con Random Forest, sobre el cual se ajustaron los hiperparámetros para equilibrar precisión y eficiencia computacional. 
+Se evaluó el rendimiento de cada uno de los modelos, obteniendo los mejores resultados con Random Forest, sobre el cual se ajustaron los hiperparámetros para equilibrar precisión y eficiencia computacional. 
 
 ## Modelos No Supervisados
 
