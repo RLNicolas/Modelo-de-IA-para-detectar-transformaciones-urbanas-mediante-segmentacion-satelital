@@ -35,4 +35,4 @@ Se evaluó el rendimiento de una red neuronal usando las features originales del
 ## Enlaces
  * Video de YouTube:
  * Slides: https://www.canva.com/design/DAGzFrmcfRM/feTF37yi-_CV0Ua55oQ4wA/edit?utm_content=DAGzFrmcfRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
- * Notebook: 
+ * Notebook: https://colab.research.google.com/drive/1orUTdqSIpJcbj8aoTTGako4Fb-yv3pCF?usp=sharing
