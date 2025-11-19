@@ -33,6 +33,6 @@ Modelos de clustering
 Se evaluó el rendimiento de una red neuronal usando las features originales del dataset, las generadas por PCA y un conjunto de ambas. Adicionalmente, se realizaron procesos de clustering con K-Means y DBSCAN utilizando PCA y t-SNE, comparando sus resultados con las features originales.
 
 ## Enlaces
- * Video de YouTube:
+ * Video de YouTube: https://youtu.be/No9Rq8ZBuYc
  * Slides: https://www.canva.com/design/DAGzFrmcfRM/feTF37yi-_CV0Ua55oQ4wA/edit?utm_content=DAGzFrmcfRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  * Notebook: https://colab.research.google.com/drive/1orUTdqSIpJcbj8aoTTGako4Fb-yv3pCF?usp=sharing
